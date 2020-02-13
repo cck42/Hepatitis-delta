@@ -1,0 +1,93 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 8
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	align
+	1	ancestral
+	1	export
+	1	filter
+	1	refine
+	1	traits
+	1	translate
+	1	tree
+	8
+
+[Tue Feb 11 11:03:43 2020]
+Job 7: 
+        Filtering to
+          - excluding strains in config/dropped_strains.txt
+        
+
+[Tue Feb 11 11:03:47 2020]
+Finished job 7.
+1 of 8 steps (12%) done
+
+[Tue Feb 11 11:03:47 2020]
+Job 6: 
+        Aligning sequences to config/reference.gb
+          - filling gaps with N
+        
+
+[Tue Feb 11 11:04:23 2020]
+Finished job 6.
+2 of 8 steps (25%) done
+
+[Tue Feb 11 11:04:23 2020]
+Job 5: Building tree
+
+[Tue Feb 11 11:04:30 2020]
+Finished job 5.
+3 of 8 steps (38%) done
+
+[Tue Feb 11 11:04:30 2020]
+Job 1: 
+        Refining tree
+          - estimate timetree
+          - use opt coalescent timescale
+          - estimate marginal node dates
+          - filter tips more than 4 IQDs from clock expectation
+        
+
+[Tue Feb 11 11:10:10 2020]
+Finished job 1.
+4 of 8 steps (50%) done
+
+[Tue Feb 11 11:10:10 2020]
+Job 2: Inferring ancestral traits for country state
+
+
+[Tue Feb 11 11:10:10 2020]
+Job 3: Reconstructing ancestral sequences and mutations
+
+[Tue Feb 11 11:10:15 2020]
+Finished job 2.
+5 of 8 steps (62%) done
+[Tue Feb 11 11:10:21 2020]
+Finished job 3.
+6 of 8 steps (75%) done
+
+[Tue Feb 11 11:10:21 2020]
+Job 4: Translating amino acid sequences
+
+[Tue Feb 11 11:10:24 2020]
+Finished job 4.
+7 of 8 steps (88%) done
+
+[Tue Feb 11 11:10:24 2020]
+Job 0: Exporting data files for for auspice
+
+[Tue Feb 11 11:10:26 2020]
+Error in rule export:
+    jobid: 0
+    output: auspice/BrazilDENV_tree.json, auspice/BrazilDENV_meta.json
+    shell:
+        
+        augur export v1             --tree results/tree.nwk             --metadata data/metadata.tsv             --node-data results/branch_lengths.json results/traits.json results/nt_muts.json results/aa_muts.json             --colors config/colors.tsv             --lat-longs config/lat_longs.tsv             --auspice-config config/auspice_config.json             --output-tree auspice/BrazilDENV_tree.json             --output-meta auspice/BrazilDENV_meta.json
+        
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /Users/chaneykalinich/Documents/nextstrain/workdir/.snakemake/log/2020-02-11T110343.690436.snakemake.log

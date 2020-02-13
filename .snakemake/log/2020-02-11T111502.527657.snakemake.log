@@ -1,0 +1,84 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 8
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	align
+	1	ancestral
+	1	export
+	1	filter
+	1	refine
+	1	traits
+	1	translate
+	1	tree
+	8
+
+[Tue Feb 11 11:15:02 2020]
+Job 7: 
+        Filtering to
+          - excluding strains in config/dropped_strains.txt
+        
+
+[Tue Feb 11 11:15:06 2020]
+Finished job 7.
+1 of 8 steps (12%) done
+
+[Tue Feb 11 11:15:06 2020]
+Job 6: 
+        Aligning sequences to config/reference.gb
+          - filling gaps with N
+        
+
+[Tue Feb 11 11:15:37 2020]
+Finished job 6.
+2 of 8 steps (25%) done
+
+[Tue Feb 11 11:15:37 2020]
+Job 5: Building tree
+
+[Tue Feb 11 11:15:44 2020]
+Finished job 5.
+3 of 8 steps (38%) done
+
+[Tue Feb 11 11:15:44 2020]
+Job 1: 
+        Refining tree
+          - estimate timetree
+          - use opt coalescent timescale
+          - estimate marginal node dates
+          - filter tips more than 4 IQDs from clock expectation
+        
+
+[Tue Feb 11 11:31:12 2020]
+Finished job 1.
+4 of 8 steps (50%) done
+
+[Tue Feb 11 11:31:12 2020]
+Job 3: Reconstructing ancestral sequences and mutations
+
+
+[Tue Feb 11 11:31:12 2020]
+Job 2: Inferring ancestral traits for country state
+
+[Tue Feb 11 11:31:17 2020]
+Finished job 2.
+5 of 8 steps (62%) done
+[Tue Feb 11 11:31:23 2020]
+Finished job 3.
+6 of 8 steps (75%) done
+
+[Tue Feb 11 11:31:23 2020]
+Job 4: Translating amino acid sequences
+
+[Tue Feb 11 11:31:26 2020]
+Finished job 4.
+7 of 8 steps (88%) done
+
+[Tue Feb 11 11:31:26 2020]
+Job 0: Exporting data files for for auspice
+
+[Tue Feb 11 11:31:28 2020]
+Finished job 0.
+8 of 8 steps (100%) done
+Complete log: /Users/chaneykalinich/Documents/nextstrain/workdir/.snakemake/log/2020-02-11T111502.527657.snakemake.log

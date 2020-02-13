@@ -1,0 +1,24 @@
+{
+  "title": "Worldwide Hepatitis delta virus",
+  "color_options": {
+    "num_date": {"menuItem": "date", "legendTitle": "Sampling date", "type": "continuous"},
+    "country": {"legendTitle":"Country", "type":"discrete"},
+    "state": {"legendTitle":"State", "menuItem":"state", "type":"discrete"}
+  },
+  "geo": [
+    "country"
+  ],
+  "maintainer": [
+    "Chaney Kalinich",
+    "github.com/cck42/exercise-4"
+  ],
+  "filters": [
+    "country",
+    "Release-date"
+  ],
+  "defaults": {
+   "colorBy": "country",
+   "mapTriplicate": false,
+   "geoResolution": "country"
+ }
+}

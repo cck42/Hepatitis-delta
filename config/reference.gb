@@ -1,0 +1,68 @@
+LOCUS       MK124579                1679 bp    RNA     circular VRL 29-JAN-2019
+DEFINITION  Hepatitis delta virus clone DC-1, complete genome.
+ACCESSION   MK124579
+VERSION     MK124579.1
+KEYWORDS    .
+SOURCE      Hepatitis delta virus
+  ORGANISM  Hepatitis delta virus
+            Viruses; ssRNA viruses; ssRNA negative-strand viruses; Deltavirus.
+REFERENCE   1  (bases 1 to 1679)
+  AUTHORS   Casey,J.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-NOV-2018) Department of Microbiology and Immunology,
+            Georgetown University Medical Center, 3900 Reservoir Rd NW,
+            Washington, DC 20057, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1679
+                     /organism="Hepatitis delta virus"
+                     /mol_type="genomic RNA"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:12475"
+                     /clone="DC-1"
+                     /lab_host="chimpanzee"
+                     /country="Italy"
+                     /collection_date="1984"
+                     /note="clone from Hepatitis delta virus strain in INSD
+                     accession X04451; passaged through 5 chimpanzees in USA"
+     CDS             complement(1011..1598)
+                     /codon_start=1
+                     /product="delta antigen"
+                     /protein_id="QAT92859.1"
+                     /translation="MSRSESRKNRGGREEILEQWVAGRKKLEELERDLRKTKKKLKKI
+                     EDENPWLGNIKGILGKKDKDGEGAPPAKRARTDQMEVDSGPRKRPLRGGFTDKERQDH
+                     RRRKALENKKKQLSAGGKNLSKEEEEELRRLTEEDERRERRVAGPPVGGVIPLEGGSR
+                     GAPGGGFVPSLQGVPESPFSRTGEGLDIRGNRGFP"
+ORIGIN      
+        1 cttgagccaa gttccgagcg aggagacgcg gggggaggat cagctcccga gaggggatgt
+       61 cacggtaaag agcattggaa cgtcggagaa actactccca agaagcaaag agaggtccca
+      121 ggaagcggac gagatcccca caacgccgga gaatctctgg aaggggaaag aggaaggtgg
+      181 aagaaaaagg ggcgggcctc ccgatccgag gggcccaacc tccagatctg gagagcactc
+      241 cggcccgaag ggttgagtag cacccagagg gaggaatcca ctcggagatg agcagagaaa
+      301 tcacctccag aggacccctt cagcgaacaa gaggcgcttc gagcggtagg agtaagacca
+      361 tagcgatagg aggagatgct aggagtagga ggagaccgaa gcgaggagga aagcaaagaa
+      421 agcaacgggg ctagccggtg ggtgttccgc cccccgagag gggacgagtg aggcttatcc
+      481 cggggaattc gacttatcgt ccccatctag cgggaccccg gacccccttc gaaagtgacc
+      541 ggagggggtg ctaggaacac cggggaccag tggagccatg ggatgccctt cccgatgctc
+      601 gactccgact ccccccccca agggtcgccc aggaatggcg ggaccccact ctacagggtc
+      661 cgcgttccat cctttcttac ctgatggccg gcatggtccc agcctcctcg ctggcgccgg
+      721 ctgggcaaca ttccgagggg accgtcccct cggtaatggc gaatgggacc cacaaatctc
+      781 tctagattcc gatagagaat cgagagaaaa gtggctctcc cttagccatc cgagtggacg
+      841 tgcgtcctcc ttcggatgcc caggtcggac cgcgaggagg tggagatgcc atgccgaccc
+      901 gaagaggaaa gaaggacgcg agacgcaaac ctgtgagtgg aaacccgctt tattcactgg
+      961 ggtcgacaac tctggggaga aaagggcgga tcggctggga agagtatatc ctatggaaat
+     1021 ccccggtttc ccctgatgtc cagcccctcc ccggtccgag agaaggggga ctccgggact
+     1081 ccctgcagac tggggacgaa gccgcccccg ggcgctcccc tcgatccacc ttcgaggggg
+     1141 atcacacccc caaccggcgg gccggctact cttctttccc ttctctcgtc ttcctcggtc
+     1201 aacctcctga gttcctcttc ttcctccttg ctgaggttct tgcctcccgc cgatagctgc
+     1261 ttcttcttgt tctcgagggc cttccttcgt cggtgatcct gcctctcctt gtcggtgaat
+     1321 cctcccctga gaggcctctt cctaggtccg gagtctacct ccatctggtc cgttcgggcc
+     1381 ctcttcgccg ggggagcccc ctctccatcc ttatccttct ttccgagaat tcctttgatg
+     1441 ttccccagcc agggattttc gtcctcaatc tttttgagtt tcttctttgt cttccggagg
+     1501 tctctctcga gttcctctaa cttctttctt ccggccaccc actgctcgag gatctcttct
+     1561 ctccctccgc ggttcttcct cgactcggac cggctcatct cggctagagg cggcagtcct
+     1621 cagtactctt actcttttct gtaaagagga gactgctgga ctcgccgccc gagcccaag
+//
+
