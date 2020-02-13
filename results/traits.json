@@ -16,78 +16,78 @@
         "?"
       ],
       "equilibrium_probabilities": [
-        0.13095613997569716,
-        0.14020511195212806,
-        0.1977557706135192,
-        0.12421269794614634,
-        0.13308684663479362,
-        0.12183011375009564,
-        0.15195331912762
+        0.13093240600957198,
+        0.14011214749164072,
+        0.19789064610149598,
+        0.12476435811960665,
+        0.13308775842602996,
+        0.12196325362469015,
+        0.15124943022696455
       ],
-      "rate": 4.245081857859664,
+      "rate": 4.248540216371861,
       "transition_matrix": [
         [
-          -6.389344116021965,
-          0.9100118216876253,
-          1.0446324893203354,
-          0.893326759172719,
-          0.9109798704815865,
-          1.0935340965186717,
-          0.9024224172529681
+          -6.388163975571874,
+          0.9094446300810521,
+          1.0459703000775542,
+          0.8928943037964969,
+          0.9104071473602828,
+          1.090883976202401,
+          0.9017720610661796
         ],
         [
-          0.9100118216876253,
-          -6.650335698245765,
-          1.232624519011364,
-          1.188810075569703,
-          1.3269293338725618,
-          0.8770567161355053,
-          0.9105871966142577
+          0.9094446300810521,
+          -6.655439076778165,
+          1.235328634475663,
+          1.1859684040118106,
+          1.3263876816717617,
+          0.8765419374632785,
+          0.9095812757898731
         ],
         [
-          1.0446324893203354,
-          1.232624519011364,
-          -5.829937230887951,
-          2.2428730090847036,
-          1.05297309010432,
-          2.343441364188365,
-          0.9150871439692586
+          1.0459703000775542,
+          1.235328634475663,
+          -5.829476353865917,
+          2.2312490847791877,
+          1.0529422543689309,
+          2.341496961667576,
+          0.9221338156571395
         ],
         [
-          0.893326759172719,
-          1.188810075569703,
-          2.2428730090847036,
-          -9.809416710392814,
-          0.8949758685700618,
-          0.8661860922935484,
-          1.7545657833492392
+          0.8928943037964969,
+          1.1859684040118106,
+          2.2312490847791877,
+          -9.734085472395204,
+          0.8945471440836936,
+          0.8656211484495454,
+          1.75352050656366
         ],
         [
-          0.9109798704815865,
-          1.3269293338725618,
-          1.05297309010432,
-          0.8949758685700618,
-          -6.532375260611248,
-          0.879486920345472,
-          0.9047889073377466
+          0.9104071473602828,
+          1.3263876816717617,
+          1.0529422543689309,
+          0.8945471440836936,
+          -6.529268236727388,
+          0.8789445274598796,
+          0.904115084974903
         ],
         [
-          1.0935340965186717,
-          0.8770567161355053,
-          2.343441364188365,
-          0.8661860922935484,
-          0.879486920345472,
-          -8.914894705402704,
-          0.867775000277207
+          1.090883976202401,
+          0.8765419374632785,
+          2.341496961667576,
+          0.8656211484495454,
+          0.8789445274598796,
+          -8.897464389481764,
+          0.8673202825135785
         ],
         [
-          0.9024224172529681,
-          0.9105871966142577,
-          0.9150871439692586,
-          1.7545657833492392,
-          0.9047889073377466,
-          0.867775000277207,
-          -5.731276445840502
+          0.9017720610661796,
+          0.9095812757898731,
+          0.9221338156571395,
+          1.75352050656366,
+          0.904115084974903,
+          0.8673202825135785,
+          -5.771135407378332
         ]
       ]
     }
@@ -110,9 +110,9 @@
     "KJ744215": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 1.0
+        "Iran": 0.9999999999999999
       },
-      "country_entropy": -1.000088900581841e-12
+      "country_entropy": -9.99866855976916e-13
     },
     "KJ744216": {
       "country": "Iran",
@@ -131,9 +131,9 @@
     "KJ744218": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 1.0
+        "Iran": 0.9999999999999999
       },
-      "country_entropy": -1.000088900581841e-12
+      "country_entropy": -9.99866855976916e-13
     },
     "KJ744220": {
       "country": "Iran",
@@ -145,9 +145,9 @@
     "KJ744221": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999999999999999
+        "Iran": 1.0
       },
-      "country_entropy": -9.99866855976916e-13
+      "country_entropy": -1.000088900581841e-12
     },
     "KJ744222": {
       "country": "Iran",
@@ -159,23 +159,23 @@
     "KJ744223": {
       "country": "Iran",
       "country_confidence": {
+        "Iran": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KJ744224": {
+      "country": "Iran",
+      "country_confidence": {
         "Iran": 0.9999999999999999
       },
       "country_entropy": -9.99866855976916e-13
     },
-    "KJ744224": {
+    "KJ744225": {
       "country": "Iran",
       "country_confidence": {
         "Iran": 1.0
       },
       "country_entropy": -1.000088900581841e-12
-    },
-    "KJ744225": {
-      "country": "Iran",
-      "country_confidence": {
-        "Iran": 0.9999999999999999
-      },
-      "country_entropy": -9.99866855976916e-13
     },
     "KJ744226": {
       "country": "Iran",
@@ -208,16 +208,16 @@
     "KJ744230": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999999999999999
+        "Iran": 1.0
       },
-      "country_entropy": -9.99866855976916e-13
+      "country_entropy": -1.000088900581841e-12
     },
     "KJ744231": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 1.0
+        "Iran": 0.9999999999999999
       },
-      "country_entropy": -1.000088900581841e-12
+      "country_entropy": -9.99866855976916e-13
     },
     "KJ744232": {
       "country": "Iran",
@@ -348,9 +348,9 @@
     "KJ744255": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999999999999999
+        "Iran": 1.0
       },
-      "country_entropy": -9.99866855976916e-13
+      "country_entropy": -1.000088900581841e-12
     },
     "KJ744256": {
       "country": "Iran",
@@ -362,16 +362,16 @@
     "KJ744257": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 1.0
+        "Iran": 0.9999999999999999
       },
-      "country_entropy": -1.000088900581841e-12
+      "country_entropy": -9.99866855976916e-13
     },
     "KT722840": {
       "country": "China",
       "country_confidence": {
-        "China": 0.9999999999999999
+        "China": 1.0
       },
-      "country_entropy": -9.99866855976916e-13
+      "country_entropy": -1.000088900581841e-12
     },
     "KY861350": {
       "country": "Cameroon",
@@ -530,9 +530,9 @@
     "MK890233": {
       "country": "Pakistan",
       "country_confidence": {
-        "Pakistan": 1.0
+        "Pakistan": 0.9999999999999999
       },
-      "country_entropy": -1.000088900581841e-12
+      "country_entropy": -9.99866855976916e-13
     },
     "MK890234": {
       "country": "Pakistan",
@@ -551,500 +551,499 @@
     "NODE_0000000": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999771655624743
+        "Iran": 0.9999769272451227
       },
-      "country_entropy": 0.00029643100731779697
+      "country_entropy": 0.000299381288719596
     },
     "NODE_0000001": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999803491518934
+        "Iran": 0.999980330010568
       },
-      "country_entropy": 0.00025826059065658144
+      "country_entropy": 0.0002585646513081739
     },
     "NODE_0000002": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999298607395438
+        "Iran": 0.9999299461527149
       },
-      "country_entropy": 0.0008339057523659031
+      "country_entropy": 0.0008332355426563576
     },
     "NODE_0000003": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999979042309115
+        "Iran": 0.9999980953312866
       },
-      "country_entropy": 3.1881797956912076e-05
+      "country_entropy": 2.914080656787356e-05
     },
     "NODE_0000004": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999770989072594
+        "Iran": 0.9999772733283144
       },
-      "country_entropy": 0.00029706010124905144
+      "country_entropy": 0.00029512453504203023
     },
     "NODE_0000005": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9998525178103773
+        "Iran": 0.9998479267322906
       },
-      "country_entropy": 0.001645610747942928
+      "country_entropy": 0.001692779049417481
     },
     "NODE_0000006": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999932552924639
+        "Iran": 0.9999936014542498
       },
-      "country_entropy": 8.932500793181067e-05
+      "country_entropy": 8.512152225326361e-05
     },
     "NODE_0000007": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9984471414620769,
-        "Israel": 0.0014624798889719237
+        "Iran": 0.998507304960316,
+        "Israel": 0.0014054630927705395
       },
-      "country_entropy": 0.012067726161914833
+      "country_entropy": 0.011660750530481876
     },
     "NODE_0000008": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9998647559379505
+        "Iran": 0.9998661691553381
       },
-      "country_entropy": 0.0014439289077853952
+      "country_entropy": 0.0014288155971200684
     },
     "NODE_0000009": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.999896957347845
+        "Iran": 0.9998953618367099
       },
-      "country_entropy": 0.0011822450200296385
+      "country_entropy": 0.0011993411358450252
     },
     "NODE_0000010": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999573810160137
+        "Iran": 0.9999570749736924
       },
-      "country_entropy": 0.0005275295358650147
+      "country_entropy": 0.0005311840942593132
     },
     "NODE_0000011": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999885968897598
+        "Iran": 0.9999880668659132
       },
-      "country_entropy": 0.00015602525975790622
+      "country_entropy": 0.0001628295104218091
     },
     "NODE_0000012": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999962139616989
+        "Iran": 0.9999962914343388
       },
-      "country_entropy": 5.5739845507316785e-05
+      "country_entropy": 5.46828579741101e-05
     },
     "NODE_0000013": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9996495294591901
+        "Iran": 0.9996496572205772
       },
-      "country_entropy": 0.0036135883083632915
+      "country_entropy": 0.0036136035425750512
     },
     "NODE_0000014": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.999990718610928
+        "Iran": 0.9999906195996171
       },
-      "country_entropy": 0.00012842670191611633
+      "country_entropy": 0.00012970141879088383
     },
     "NODE_0000015": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9996898827113638
+        "Iran": 0.9996907609910561
       },
-      "country_entropy": 0.003232934543838229
+      "country_entropy": 0.0032257266588682732
     },
     "NODE_0000016": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999721113248431
+        "Iran": 0.9999710357905666
       },
-      "country_entropy": 0.00034827582807406846
+      "country_entropy": 0.00035863083011420543
     },
     "NODE_0000017": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9996229956743995
+        "Iran": 0.9996426310211242
       },
-      "country_entropy": 0.0038576487192815653
+      "country_entropy": 0.0036768664434590446
     },
     "NODE_0000018": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9997769983222562
+        "Iran": 0.9997949904271033
       },
-      "country_entropy": 0.00223236692266267
+      "country_entropy": 0.0020637090303948663
     },
     "NODE_0000019": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9620336414959567,
-        "Pakistan": 0.03706231679987239
+        "Iran": 0.9637156826771401,
+        "Pakistan": 0.035420873736821894
       },
-      "country_entropy": 0.16696620003532717
+      "country_entropy": 0.16124496947992983
     },
     "NODE_0000020": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.997102040496535,
-        "Pakistan": 0.0026416384524044264
+        "Iran": 0.997276975799209,
+        "Pakistan": 0.0024742584437175727
       },
-      "country_entropy": 0.02101021197985329
+      "country_entropy": 0.019940599100925292
     },
     "NODE_0000021": {
       "country": "Pakistan",
       "country_confidence": {
-        "Iran": 0.04166907457402893,
-        "Pakistan": 0.9576218383818146
+        "Iran": 0.041765510343098965,
+        "Pakistan": 0.957523497509826
       },
-      "country_entropy": 0.18014887577070304
+      "country_entropy": 0.1804680812422985
     },
     "NODE_0000022": {
       "country": "Pakistan",
       "country_confidence": {
-        "Pakistan": 0.9999982014965173
+        "Pakistan": 0.9999981957106643
       },
-      "country_entropy": 2.594695936152634e-05
+      "country_entropy": 2.602461459996655e-05
     },
     "NODE_0000023": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9993556749215449
+        "Iran": 0.9992583563173283
       },
-      "country_entropy": 0.0056377806179751435
+      "country_entropy": 0.006353801353175246
     },
     "NODE_0000024": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9970196816578757,
-        "Israel": 0.002095312172361244
+        "Iran": 0.9970060183738303,
+        "Israel": 0.0021384945649399207
       },
-      "country_entropy": 0.022345208748262686
+      "country_entropy": 0.02240001003601618
     },
     "NODE_0000025": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9351260232850707,
-        "Israel": 0.06282498525868778,
-        "Pakistan": 0.0010559650025539877
+        "Iran": 0.9339491053462368,
+        "Israel": 0.06398193115539443,
+        "Pakistan": 0.0010528194563562006
       },
-      "country_entropy": 0.2520209768548364
+      "country_entropy": 0.25530092501964957
     },
     "NODE_0000026": {
       "country": "Israel",
       "country_confidence": {
-        "Iran": 0.06972262408236828,
-        "Israel": 0.928595770048043
+        "Iran": 0.07010887588845373,
+        "Israel": 0.9281958712448224
       },
-      "country_entropy": 0.2677430119410716
+      "country_entropy": 0.268847867266984
     },
     "NODE_0000027": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999663893809676
+        "Iran": 0.999965101479494
       },
-      "country_entropy": 0.00040326894386738836
+      "country_entropy": 0.0004173412030728173
     },
     "NODE_0000028": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999991610223987
+        "Iran": 0.9999991661849099
       },
-      "country_entropy": 1.3395175240508946e-05
+      "country_entropy": 1.3322250195672081e-05
     },
     "NODE_0000029": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9730459473770534,
-        "Pakistan": 0.02618117316255236
+        "Iran": 0.9737890107130399,
+        "Pakistan": 0.025429593815182564
       },
-      "country_entropy": 0.1282610135019704
+      "country_entropy": 0.125596600980683
     },
     "NODE_0000030": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.8439565050866581,
-        "Pakistan": 0.15516517079527317
+        "Iran": 0.8464500810390724,
+        "Pakistan": 0.15265129326252463
       },
-      "country_entropy": 0.43965295003646815
+      "country_entropy": 0.43553999195995413
     },
     "NODE_0000031": {
       "country": "Pakistan",
       "country_confidence": {
-        "Iran": 0.02677012214852421,
-        "Pakistan": 0.9731256713264166
+        "Iran": 0.0242812521230779,
+        "Pakistan": 0.9756210412961656
       },
-      "country_entropy": 0.12454826615790898
+      "country_entropy": 0.1154128551250526
     },
     "NODE_0000032": {
       "country": "Pakistan",
       "country_confidence": {
-        "Pakistan": 0.9990573084366006
+        "Pakistan": 0.9990600269235204
       },
-      "country_entropy": 0.007544274642057793
+      "country_entropy": 0.007524511071330234
     },
     "NODE_0000033": {
       "country": "Pakistan",
       "country_confidence": {
-        "Pakistan": 0.9999938071485467
+        "Pakistan": 0.9999939610634936
       },
-      "country_entropy": 8.093402900167721e-05
+      "country_entropy": 7.909000875832308e-05
     },
     "NODE_0000034": {
       "country": "Pakistan",
       "country_confidence": {
-        "Pakistan": 0.9999902839900808
+        "Pakistan": 0.9999902703677473
       },
-      "country_entropy": 0.00012925432782228693
+      "country_entropy": 0.00012942056649812984
     },
     "NODE_0000035": {
       "country": "Pakistan",
       "country_confidence": {
-        "Pakistan": 0.9999939549300662
+        "Pakistan": 0.9999939805441178
       },
-      "country_entropy": 8.25383632937323e-05
+      "country_entropy": 8.223131531693643e-05
     },
     "NODE_0000036": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9963573080774791,
-        "Israel": 0.003213680070520451
+        "Iran": 0.9961928867987593,
+        "Israel": 0.003356474853422793
       },
-      "country_entropy": 0.02581909594101437
+      "country_entropy": 0.02682717825881025
     },
     "NODE_0000037": {
       "country": "Israel",
       "country_confidence": {
-        "Iran": 0.09260160551724,
-        "Israel": 0.7957888886133412,
-        "Russia": 0.11085773892252193
+        "Iran": 0.0939400958936513,
+        "Israel": 0.7844814620337858,
+        "Russia": 0.12081203288755403
       },
-      "country_entropy": 0.6522730962437293
+      "country_entropy": 0.6743729969099812
     },
     "NODE_0000038": {
       "country": "Israel",
       "country_confidence": {
-        "Iran": 0.04900660736966364,
-        "Israel": 0.7972442873963624,
-        "Russia": 0.15198759461690275
+        "Iran": 0.04961350389928661,
+        "Israel": 0.7863921981255374,
+        "Russia": 0.16221194841565525
       },
-      "country_entropy": 0.6283164404637336
+      "country_entropy": 0.646696710988818
     },
     "NODE_0000039": {
       "country": "Russia",
       "country_confidence": {
-        "Iran": 0.0010795261375142313,
-        "Israel": 0.02204308709645576,
-        "Russia": 0.9764069275979789
+        "Iran": 0.0010893775920936463,
+        "Israel": 0.021665761480067228,
+        "Russia": 0.9767808703808586
       },
-      "country_entropy": 0.11902667481695248
+      "country_entropy": 0.117601788246092
     },
     "NODE_0000040": {
       "country": "Israel",
       "country_confidence": {
-        "Iran": 0.06950358212350059,
-        "Israel": 0.8214657911326132,
-        "Russia": 0.10834636967933546
+        "Iran": 0.07057907642301396,
+        "Israel": 0.810151661973706,
+        "Russia": 0.1185598925488846
       },
-      "country_entropy": 0.5932988786887765
+      "country_entropy": 0.6163152809605263
     },
     "NODE_0000041": {
       "country": "Russia",
       "country_confidence": {
-        "Israel": 0.013342373663728925,
-        "Russia": 0.9853913152858929
+        "Israel": 0.013086194865339483,
+        "Russia": 0.985643708085569
       },
-      "country_entropy": 0.08186634977352092
+      "country_entropy": 0.08077750768444603
     },
     "NODE_0000042": {
       "country": "Israel",
       "country_confidence": {
-        "China": 0.001227197283745579,
-        "Iran": 0.0658519178947976,
-        "Israel": 0.8985177895505687,
-        "Russia": 0.03422007191097967
+        "China": 0.001340906688307521,
+        "Iran": 0.06623227915870097,
+        "Israel": 0.8995886341301793,
+        "Russia": 0.032647768445970615
       },
-      "country_entropy": 0.4007734786829693
+      "country_entropy": 0.39740661205737493
     },
     "NODE_0000043": {
       "country": "Israel",
       "country_confidence": {
-        "China": 0.005742496704388932,
-        "Iran": 0.07903723424706989,
-        "Israel": 0.8947489183677768,
-        "Russia": 0.019956351018058295
+        "China": 0.0052156206143133274,
+        "Iran": 0.07753834849466658,
+        "Israel": 0.8963294761234624,
+        "Russia": 0.020438866784030917
       },
-      "country_entropy": 0.41228278670824625
+      "country_entropy": 0.4074544518444678
     },
     "NODE_0000044": {
       "country": "Israel",
       "country_confidence": {
-        "China": 0.1327336663501707,
-        "Iran": 0.37950599085761816,
-        "Israel": 0.47047406813207937,
-        "Russia": 0.010873488042022539
+        "China": 0.13617351393128121,
+        "Iran": 0.38664347704725116,
+        "Israel": 0.4596803856158209,
+        "Russia": 0.01092328507984593
       },
-      "country_entropy": 1.0788545016346023
+      "country_entropy": 1.085583620048007
     },
     "NODE_0000045": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9995887561243764
+        "Iran": 0.9996385425541766
       },
-      "country_entropy": 0.003873276980181969
+      "country_entropy": 0.003456386420817105
     },
     "NODE_0000046": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999941359490188
+        "Iran": 0.9999935767909094
       },
-      "country_entropy": 7.946684420090393e-05
+      "country_entropy": 8.65310083889617e-05
     },
     "NODE_0000047": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999994346305416
+        "Iran": 0.9999993973399574
       },
-      "country_entropy": 9.357059128736496e-06
+      "country_entropy": 9.94695981728275e-06
     },
     "NODE_0000048": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9988881719631549
+        "Iran": 0.9988672930002792
       },
-      "country_entropy": 0.009602756744457232
+      "country_entropy": 0.009767775078480046
     },
     "NODE_0000049": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9998072047917244
+        "Iran": 0.9998033355205708
       },
-      "country_entropy": 0.0020475320092112046
+      "country_entropy": 0.0020849022050087773
     },
     "NODE_0000050": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9990832256027402
+        "Iran": 0.9990761712563013
       },
-      "country_entropy": 0.008575699055968358
+      "country_entropy": 0.008637716970332953
     },
     "NODE_0000051": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9994167145974774
+        "Iran": 0.9994052845861121
       },
-      "country_entropy": 0.0058276180908368716
+      "country_entropy": 0.005931862479558861
     },
     "NODE_0000052": {
       "country": "Iran",
       "country_confidence": {
-        "China": 0.00277525321159012,
-        "Iran": 0.9939673913608553,
-        "Italy": 0.0023578896643171995
+        "China": 0.0028287993062193167,
+        "Iran": 0.9938441363325646,
+        "Italy": 0.0024092409957981523
       },
-      "country_entropy": 0.04394572719456464
+      "country_entropy": 0.044721690269133085
     },
     "NODE_0000053": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9994765592073183
+        "Iran": 0.9994785829595356
       },
-      "country_entropy": 0.005188005405903319
+      "country_entropy": 0.005171241582318946
     },
     "NODE_0000054": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.9999213239711066
+        "Iran": 0.9999213175034743
       },
-      "country_entropy": 0.0009374167593362623
+      "country_entropy": 0.000937657017628585
     },
     "NODE_0000055": {
       "country": "Italy",
       "country_confidence": {
-        "China": 0.4591465648540803,
-        "Iran": 0.07177985981574182,
-        "Israel": 0.002276631891546555,
-        "Italy": 0.46322060809069004
+        "China": 0.458250472539636,
+        "Iran": 0.07131495943391092,
+        "Israel": 0.0022647379396629167,
+        "Italy": 0.4646012116145726
       },
-      "country_entropy": 0.9407151671168985
+      "country_entropy": 0.9397276933405514
     },
     "NODE_0000056": {
       "country": "Iran",
       "country_confidence": {
-        "Cameroon": 0.010581002298135252,
-        "Iran": 0.7902955947709567,
-        "Israel": 0.002162203017891285,
-        "Pakistan": 0.1941002303045487
+        "Cameroon": 0.010387830704574975,
+        "Iran": 0.7952843753236964,
+        "Israel": 0.002130971908201377,
+        "Pakistan": 0.18938560322920492
       },
-      "country_entropy": 0.585475025440247
+      "country_entropy": 0.5774280615584405
     },
     "NODE_0000057": {
       "country": "Iran",
       "country_confidence": {
-        "Cameroon": 0.0014857391613742703,
-        "Iran": 0.9460484551081426,
-        "Pakistan": 0.051138009297423424
+        "Cameroon": 0.0015193174117820436,
+        "Iran": 0.9455494206102008,
+        "Pakistan": 0.05159020740148118
       },
-      "country_entropy": 0.2244170461837001
+      "country_entropy": 0.22605820435061588
     },
     "NODE_0000058": {
       "country": "Iran",
       "country_confidence": {
-        "Iran": 0.985818055144159,
-        "Israel": 0.001144605880856961,
-        "Pakistan": 0.011992613527135779
+        "Iran": 0.9857266013259993,
+        "Israel": 0.0011461425771781438,
+        "Pakistan": 0.01206567602489788
       },
-      "country_entropy": 0.08345006620548712
+      "country_entropy": 0.08392040567561074
     },
     "NODE_0000061": {
       "country": "Iran",
       "country_confidence": {
-        "Cameroon": 0.026003133999911908,
-        "Iran": 0.5181832959066992,
-        "Israel": 0.002748564337057542,
-        "Pakistan": 0.4488858126520578
+        "Cameroon": 0.02605030969016105,
+        "Iran": 0.5221173041197656,
+        "Israel": 0.0027562565447266877,
+        "Pakistan": 0.4448791218672328
       },
-      "country_entropy": 0.8387838053594987
+      "country_entropy": 0.8384624512343276
     },
     "NODE_0000062": {
       "country": "Pakistan",
       "country_confidence": {
-        "Cameroon": 0.0010000889434395434,
-        "Iran": 0.0882804808881358,
-        "Pakistan": 0.910225961253144
+        "Iran": 0.0869881056533047,
+        "Pakistan": 0.9115576501906724
       },
-      "country_entropy": 0.3112113719368106
+      "country_entropy": 0.3078988349495681
     },
     "NODE_0000063": {
       "country": "Pakistan",
       "country_confidence": {
-        "Iran": 0.008414737657662201,
-        "Pakistan": 0.9912123752488314
+        "Iran": 0.00853966089341756,
+        "Pakistan": 0.9910868143994515
       },
-      "country_entropy": 0.05247259753700799
+      "country_entropy": 0.053073609819632966
     },
     "NODE_0000064": {
       "country": "Pakistan",
       "country_confidence": {
-        "Iran": 0.0640660660980409,
-        "Pakistan": 0.9354969672644692
+        "Iran": 0.063312269493758,
+        "Pakistan": 0.9362570753677822
       },
-      "country_entropy": 0.2424232116676298
+      "country_entropy": 0.2403409964596942
     },
     "NODE_0000065": {
       "country": "Pakistan",
       "country_confidence": {
-        "Iran": 0.08671444433830021,
-        "Pakistan": 0.9121492398339057
+        "Iran": 0.08613398901228589,
+        "Pakistan": 0.9127298252149278
       },
-      "country_entropy": 0.305377203481874
+      "country_entropy": 0.30400906307424874
     }
   }
 }

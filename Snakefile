@@ -2,8 +2,8 @@
 
 rule all:
     input:
-        auspice_tree = "auspice/BrazilDENV_tree.json",
-        auspice_meta = "auspice/BrazilDENV_meta.json"
+        auspice_tree = "auspice/Hepatitis-delta_tree.json",
+        auspice_meta = "auspice/Hepatitis-delta_meta.json"
 input_fasta = "data/sequences.fasta",
 input_metadata = "data/metadata.tsv",
 reference = "config/reference.gb",
