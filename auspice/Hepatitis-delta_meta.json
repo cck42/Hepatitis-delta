@@ -1,0 +1,113 @@
+{
+  "annotations": {
+    "nuc": {
+      "end": 1679,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "Italy",
+          "#000000"
+        ],
+        [
+          "Iran",
+          "#FFE1A8"
+        ],
+        [
+          "Cameroon",
+          "#E26D5C"
+        ],
+        [
+          "Israel",
+          "#4A6670"
+        ],
+        [
+          "China",
+          "#CF5C36"
+        ],
+        [
+          "Russia",
+          "#C9CBA3"
+        ],
+        [
+          "Pakistan",
+          "#E5F9E0"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "Country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "state": {
+      "key": "state",
+      "legendTitle": "State",
+      "menuItem": "state",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "colorBy": "country",
+    "geoResolution": "country",
+    "mapTriplicate": false
+  },
+  "filters": [
+    "country",
+    "Release-date"
+  ],
+  "geo": {
+    "country": {
+      "Cameroon": {
+        "latitude": 7.3697,
+        "longitude": 12.3547
+      },
+      "China": {
+        "latitude": 35.8617,
+        "longitude": 104.1954
+      },
+      "Iran": {
+        "latitude": 32.4279,
+        "longitude": 53.688
+      },
+      "Israel": {
+        "latitude": 31.0461,
+        "longitude": 34.8516
+      },
+      "Italy": {
+        "latitude": 41.8719,
+        "longitude": 12.5674
+      },
+      "Pakistan": {
+        "latitude": 30.3753,
+        "longitude": 69.3451
+      },
+      "Russia": {
+        "latitude": 61.524,
+        "longitude": 105.3188
+      }
+    }
+  },
+  "maintainer": [
+    "Chaney Kalinich",
+    "github.com/cck42/exercise-4"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Worldwide Hepatitis delta virus",
+  "updated": "13 Feb 2020",
+  "virus_count": 65
+}
